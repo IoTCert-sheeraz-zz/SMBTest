@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<DLList>
+  <DL TeamName="CAPTESTTEAM" DLName="smbschedhlp@microsoft.com" ServiceAgentTimeZone="India Standard Time" />
+  <DL TeamName="CoachAUNZ" DLName="CoachAUNZscheduler@microsoft.com" ServiceAgentTimeZone="Singapore Standard Time" />
+  <DL TeamName="CoachBR" DLName="CoachBRScheduler@microsoft.com" ServiceAgentTimeZone="W. Europe Standard Time" />
+  <DL TeamName="CoachDE" DLName="CoachDEScheduler@microsoft.com" ServiceAgentTimeZone="W. Europe Standard Time" />
+  <DL TeamName="CoachEMEA" DLName="CoachEMEAScheduler@microsoft.com" ServiceAgentTimeZone="GMT Standard Time" />
+  <DL TeamName="CoachFR" DLName="CoachFRScheduler@microsoft.com" ServiceAgentTimeZone="W. Europe Standard Time" />
+  <DL TeamName="CoachLATAM" DLName="CoachLATAMScheduler@microsoft.com" ServiceAgentTimeZone="W. Europe Standard Time" />
+  <DL TeamName="CoachNA" DLName="CoachNAScheduler@microsoft.com" ServiceAgentTimeZone="Eastern Standard Time" />
+  <DL TeamName="CRCalendarBR" DLName="CRCalendarBR@microsoft.com" ServiceAgentTimeZone="W. Europe Standard Time" />
+  <DL TeamName="CRCalendarLATAM" DLName="CRCalendarLATAM@microsoft.com" ServiceAgentTimeZone="GMT Standard Time" />
+  <DL TeamName="CRDE" DLName="CRCalendarDE@microsoft.com" ServiceAgentTimeZone="GMT Standard Time" />
+  <DL TeamName="CRFR" DLName="CRCalendarFR@microsoft.com" ServiceAgentTimeZone="GMT Standard Time" />
+  <DL TeamName="CRNA" DLName="CRCalendarNA@microsoft.com" ServiceAgentTimeZone="Pacific Standard Time" />
+  <DL TeamName="CRUK" DLName="CRCalendarUK@microsoft.com" ServiceAgentTimeZone="GMT Standard Time" />
+  <DL TeamName="MASTOpt" DLName="MASTOptScheduler@microsoft.com" ServiceAgentTimeZone="Eastern Standard Time" />  
+  <DL TeamName="MASTOptDE" DLName="MASTOPTSchedulerDE@microsoft.com" ServiceAgentTimeZone="Romance Standard Time" />
+  <DL TeamName="MASTOptEMEA" DLName="MASTOPTSchedulerEMEA@microsoft.com" ServiceAgentTimeZone="GMT Standard Time" />
+  <DL TeamName="MASTOptFR" DLName="MASTOPTSchedulerFR@microsoft.com" ServiceAgentTimeZone="W. Europe Standard Time" />
+  <DL TeamName="MASTOptBR" DLName="MASTOPTBR@microsoft.com" ServiceAgentTimeZone="W. Europe Standard Time" />
+  <DL TeamName="MASTOptLATAM" DLName="MASTOptLATAM@microsoft.com" ServiceAgentTimeZone="W. Europe Standard Time" />
+  <DL TeamName="TestTeam" DLName="smbschedhlp@microsoft.com" ServiceAgentTimeZone="India Standard Time" />
+  <DL TeamName="TransitionNA" DLName="TransitionNAScheduler@microsoft.com" ServiceAgentTimeZone="Eastern Standard Time" />
+  <DL TeamName="MASTOptItaly" DLName="MASTItalyOpt@microsoft.com" ServiceAgentTimeZone="Central European Standard Time" />
+  <DL TeamName="MASTOptNL" DLName="MASTOptNL@microsoft.com" ServiceAgentTimeZone="Central European Standard Time" />
+  <DL TeamName="MASTOptSpain " DLName="MASTOptES@microsoft.com" ServiceAgentTimeZone="Central European Standard Time" />
+  <DL TeamName="GS3AAM" DLName="aamgs3dub@microsoft.com" ServiceAgentTimeZone="GMT Standard Time" />
+  <DL TeamName="GS3NAPlatinum" DLName="NAPlatinum@microsoft.com" ServiceAgentTimeZone="Pacific Standard Time" />
+  <DL TeamName="CoachItaly" DLName="CoachITscheduler@microsoft.com" ServiceAgentTimeZone="Central European Standard Time" />
+  <DL TeamName="CoachNL" DLName="CoachNLscheduler@microsoft.com" ServiceAgentTimeZone="Central European Standard Time" />
+  <DL TeamName="CoachES" DLName="CoachESscheduler@microsoft.com" ServiceAgentTimeZone="Central European Standard Time" />
+  <DL TeamName="CoachAUNZ" DLName="CoachAUNZscheduler@microsoft.com" ServiceAgentTimeZone="Singapore Standard Time" />
+  <DL TeamName="MASTOptAUNZ" DLName="MASTOptAUNZscheduler@microsoft.com" ServiceAgentTimeZone="Singapore Standard Time" />
+  <DL TeamName="EMEASTAdvertisers" DLName="EMEASEARCHSPECIALIST@microsoft.com" ServiceAgentTimeZone="GMT Standard Time" />
+  <DL TeamName="GS3TAEN" DLName="emeasearchspeenglish@microsoft.com" ServiceAgentTimeZone="GMT Standard Time" />
+  <DL TeamName="GS3TAFR" DLName="emeasearchspeFR@microsoft.com" ServiceAgentTimeZone="Romance Standard Time" />
+  <DL TeamName="GS3TAES" DLName="emeasearchspeees@microsoft.com" ServiceAgentTimeZone="Romance Standard Time" />
+  <DL TeamName="GS3TADE" DLName="emeasarchspede@microsoft.com" ServiceAgentTimeZone="W. Europe Standard Time" />
+  <DL TeamName="GS3TAIT" DLName="emeasearchspeIT@microsoft.com" ServiceAgentTimeZone="W. Europe Standard Time" />
+  <DL TeamName="LifecycleAcquisitionUSA" DLName="ABM_LP" ServiceAgentTimeZone="Eastern Standard Time" />
+  <DL TeamName="LifecycleAcquisitionUK1" DLName="ABM_BM" ServiceAgentTimeZone="GMT Standard Time" />
+  <DL TeamName="LifecycleAcquisitionUK2" DLName="ABM_DC" ServiceAgentTimeZone="GMT Standard Time" />
+</DLList>
+

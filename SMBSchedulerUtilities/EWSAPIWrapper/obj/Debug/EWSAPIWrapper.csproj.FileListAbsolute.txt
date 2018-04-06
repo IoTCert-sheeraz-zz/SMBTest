@@ -1,0 +1,12 @@
+E:\SMBTFS\SourceCode\SMBAppsAndTools\SMBSchedulerUtilities\EWSAPIWrapper\bin\Debug\EWSAPIWrapper.dll
+E:\SMBTFS\SourceCode\SMBAppsAndTools\SMBSchedulerUtilities\EWSAPIWrapper\bin\Debug\EWSAPIWrapper.pdb
+E:\SMBTFS\SourceCode\SMBAppsAndTools\SMBSchedulerUtilities\EWSAPIWrapper\obj\Debug\EWSAPIWrapper.csprojResolveAssemblyReference.cache
+E:\SMBTFS\SourceCode\SMBAppsAndTools\SMBSchedulerUtilities\EWSAPIWrapper\obj\Debug\EWSAPIWrapper.csproj.CoreCompileInputs.cache
+E:\SMBTFS\SourceCode\SMBAppsAndTools\SMBSchedulerUtilities\EWSAPIWrapper\obj\Debug\EWSAPIWrapper.dll
+E:\SMBTFS\SourceCode\SMBAppsAndTools\SMBSchedulerUtilities\EWSAPIWrapper\obj\Debug\EWSAPIWrapper.pdb
+D:\SMBTFS\SourceCode\SMBAppsAndTools\SMBSchedulerUtilities\EWSAPIWrapper\bin\Debug\EWSAPIWrapper.dll
+D:\SMBTFS\SourceCode\SMBAppsAndTools\SMBSchedulerUtilities\EWSAPIWrapper\bin\Debug\EWSAPIWrapper.pdb
+D:\SMBTFS\SourceCode\SMBAppsAndTools\SMBSchedulerUtilities\EWSAPIWrapper\obj\Debug\EWSAPIWrapper.csprojResolveAssemblyReference.cache
+D:\SMBTFS\SourceCode\SMBAppsAndTools\SMBSchedulerUtilities\EWSAPIWrapper\obj\Debug\EWSAPIWrapper.csproj.CoreCompileInputs.cache
+D:\SMBTFS\SourceCode\SMBAppsAndTools\SMBSchedulerUtilities\EWSAPIWrapper\obj\Debug\EWSAPIWrapper.dll
+D:\SMBTFS\SourceCode\SMBAppsAndTools\SMBSchedulerUtilities\EWSAPIWrapper\obj\Debug\EWSAPIWrapper.pdb

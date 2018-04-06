@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.WindowsAzure.Caching.MemcacheShim</id>
+    <version>2.5.1.0</version>
+    <title>Windows Azure Cache Memcache Shim</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/net_library_eula_enu.htm</licenseUrl>
+    <projectUrl>http://go.microsoft.com/fwlink/?LinkID=235165</projectUrl>
+    <iconUrl>http://www.gravatar.com/avatar/425be63bdaaeeffd26d0172ed2030198.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Windows Azure Cache is a distributed, in memory cache that increases performance by allowing you to store commonly accessed data in memory and reduces load on backend databases. Windows Azure Cache Memcache Shim is a translation layer that enables you to easily communicate with the Cache Service or the In-Role Cache using the memcache protocol. 
+This NuGet package can only be used with the Windows Azure SDK version 2.5 of Windows Azure Cache.</description>
+    <summary>A package that adds a translation layer to allow your application to communicate with Windows Azure Cache over memcache protocol.</summary>
+    <language />
+    <tags>Microsoft Azure WindowsAzure Cache Caching Dedicated Distributed In-Memory In-Role SQL memcache memcached windowsazureofficial</tags>
+    <references />
+  </metadata>
+</package>

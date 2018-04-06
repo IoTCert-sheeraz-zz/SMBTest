@@ -1,0 +1,86 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebUtilitiesRole.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title>SMB Scheduler DL verification tool</title>
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see http://go.microsoft.com/fwlink/?LinkID=272931&clcid=0x409 --%>
+                <%--Framework Scripts--%>
+
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <%--<asp:ScriptReference Name="jquery.ui.combined" />--%>
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+        <header>
+            <div class="content-wrapper">
+                <div class="Wrapper_HeaderLogos">
+                    <table style="width: 100%" id="HeaderLogos">
+                        <tbody>
+                            <tr>
+                                <td style="width: 16%" class="HeaderLogo_Container">
+                                    <asp:HyperLink ID="HypHeaderLogoLink" NavigateUrl="http://advertise.bingads.microsoft.com/en-us/home" Target="_blank" runat="server">
+                                        <asp:Image runat="server" ID="imgHeaderLogo" Width="143" Height="59" ImageUrl="~/Images/header_logo_bingads_new.png"></asp:Image>
+                                    </asp:HyperLink></td>
+                                <td style="text-align: left">
+                                    <div class="content-wrapper">
+                                        <asp:Label ID="lblHeading" Text="" runat="server" Font-Bold="true" Font-Size="Large" ForeColor="#83786f">Distribution List verification Tool</asp:Label>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </header>
+        <div id="body">
+            <section class="content-wrapper main-content clear-fix">
+                <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+            </section>
+        </div>
+        <footer>
+            <div id="Footer_Container" style="width: 80%">
+                <table runat="server" id="tblfooterENCA" style="width:100%;">
+                    <tr>
+                        <td class="FooterLinks">
+                            <a href="http://advertise.bingads.microsoft.com/en-ca/sitemap" target="_self">Sitemap</a>
+                            <a href="http://go.microsoft.com/fwlink/?LinkId=248689" target="_blank">Privacy</a>
+                            <asp:Label ID="lblNewLegalENCA" runat="server" Visible="false" ForeColor="#33ccff">New</asp:Label>
+                            <a href="http://windows.microsoft.com/en-CA/windows-live/microsoft-services-agreement" target="_blank" style="padding-left: 0; margin-left: 0;">Legal</a>
+                            <a href="http://www.microsoft.com/About/Legal/EN/US/IntellectualProperty/Trademarks/EN-US.aspx" target="_blank">Trademarks</a>
+                            <a class="" href="http://advertise.bingads.microsoft.com/en-ca/international-marketing" target="_self">Worldwide</a>
+                            <span class="FooterCopyright">© <%=strYear%> Microsoft</span>
+                        </td>
+                        <td id="FooterRightLogoENCA"><a href="http://microsoft.com" target="_blank">
+                            <img border="0" title="Microsoft.com" alt="Microsoft.com" src="Images/MS_footerlogo.png" /></a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </footer>
+    </form>
+</body>
+</html>

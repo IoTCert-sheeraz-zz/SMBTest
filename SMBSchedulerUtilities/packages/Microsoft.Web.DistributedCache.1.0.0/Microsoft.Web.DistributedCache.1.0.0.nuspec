@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Web.DistributedCache</id>
+    <version>1.0.0</version>
+    <authors>pmourfield</authors>
+    <owners>pmourfield</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package contains the Server AppFabric Client assembly Microsoft.Web.DistributedCache.</description>
+    <language>en-US</language>
+    <tags>appfabric</tags>
+    <dependencies>
+      <dependency id="ServerAppFabric.Client" version="1.1.2106" />
+    </dependencies>
+    <references>
+      <reference file="Microsoft.Web.DistributedCache.dll" />
+    </references>
+  </metadata>
+</package>
